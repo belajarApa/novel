@@ -1,0 +1,94 @@
+form .form-control {
+    border-radius: 20px;
+    border: none;
+    width: 400px;
+}
+
+form .btn {
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+}
+
+.container .row-cols-5 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: -150px;
+    margin-right: -150px;
+}
+
+.container .row-cols-1 {
+    margin-left: -180px;
+    margin-right: -180px;
+    margin-top: -60px;
+}
+
+.container .card-cover {
+    width: 15rem;
+}
+
+.container .b-example-divider {
+    margin-left: -210px;
+    width: 1400px;
+}
+
+.container h2 {
+    padding-top: 70px;
+    margin-left: -150px;
+    margin-right: -150px;
+}
+
+.container .chapter {
+    margin-top: -5px;
+}
+
+.container .fa-star {
+    color: gold;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+
+.container a {
+    text-decoration: none;
+    color: black;
+}
+
+.position-relative {
+    width: 100%;
+    height: 630px;
+}
+
+.navkecil {
+    margin-top: -16px;
+    background-color: rgb(235, 235, 235);
+    padding: 1rem 0rem;
+}
+
+.navkecil .btn-info {
+    margin-right: 50px;
+    width: 180px;
+    height: 45px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(136, 197, 255);
+}
+
+.navkecil .btn-danger {
+    margin-right: 50px;
+    width: 180px;
+    height: 45px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 101, 101);
+}
+
+.row .col-md-6 {
+    padding: 4rem 2rem;
+}
